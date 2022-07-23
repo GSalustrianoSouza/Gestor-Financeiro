@@ -8,4 +8,4 @@
 
 - O gestor provisoriamente não salva os gastos/receita, apenas adiciona.
 
-## <a href="https://gsalustrianosouza.github.io/Gestor-Financeiro/">PRÉ-VISUALIZAÇÃO<a/>
+## <a href="https://gsalustrianosouza.github.io/Gestor-Financeiro/" target="_blank">PRÉ-VISUALIZAÇÃO<a/>
