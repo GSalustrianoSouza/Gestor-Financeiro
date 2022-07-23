@@ -7,6 +7,7 @@ export const Table = styled.table`
     box-shadow: 0px 0px 5px #CCC;
     border-radius: 10px;
     margin-top: 20px;
+    box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
 `;
 
 export const TableHeadColumn = styled.th<{ width?: number }>`
