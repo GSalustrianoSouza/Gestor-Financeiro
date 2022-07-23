@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Gestor-Financeiro/static/css/main.43006eea.css",
+    "main.js": "/Gestor-Financeiro/static/js/main.17272b6d.js",
+    "static/js/787.afd34582.chunk.js": "/Gestor-Financeiro/static/js/787.afd34582.chunk.js",
+    "index.html": "/Gestor-Financeiro/index.html",
+    "main.43006eea.css.map": "/Gestor-Financeiro/static/css/main.43006eea.css.map",
+    "main.17272b6d.js.map": "/Gestor-Financeiro/static/js/main.17272b6d.js.map",
+    "787.afd34582.chunk.js.map": "/Gestor-Financeiro/static/js/787.afd34582.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43006eea.css",
+    "static/js/main.17272b6d.js"
+  ]
+}
